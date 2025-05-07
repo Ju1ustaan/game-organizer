@@ -34,12 +34,12 @@ npm install
 
 ```env
 BOT_TOKEN=токен_твоего_бота
-ADMIN_IDS=123456789,987654321   # через запятую, без пробелов
-GROUP_CHANNEL_ID=-1001234567890 # ID группового чата
+ADMIN_IDS=XXXXXXXXX,XXXXXXXXX   # через запятую, без пробелов
+GROUP_CHANNEL_ID=-XXXXXXXXXXXXX # ID группового чата
 ```
 
 4. **Запусти бота:**
 
 ```bash
-node index.js
+npm start
 ```
